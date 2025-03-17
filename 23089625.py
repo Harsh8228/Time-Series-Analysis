@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from scipy.signal import find_peaks
 
 # Reading data
-df = pd.read_csv("C:/Users/harsh/Downloads/airline2.csv")
+df = pd.read_csv("airline2.csv")
 
 # Converting Date to datetime datatype to extract month, days and year from it
 df['Date'] = pd.to_datetime(df['Date'])
