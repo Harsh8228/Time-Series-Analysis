@@ -13,6 +13,6 @@ Visualization:
  - Power spectrum highlighting significant periodicities.
 
 📈 Results
-Identifies key seasonal trends in airline passenger traffic.
-Highlights dominant cycles in the dataset.
+ - Identifies key seasonal trends in airline passenger traffic.
+ - Highlights dominant cycles in the dataset.
 
